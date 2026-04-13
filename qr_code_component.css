@@ -4,6 +4,9 @@ body{
     align-items: center;
     display: flex;
     margin: auto;
+    height: 100svh;
+    display: grid;
+    place-items: center;
 }
 
 #box1{
@@ -15,6 +18,9 @@ body{
     background-color: white;
     margin-top: 150px;
     margin-bottom: 150px;
+    display: grid;
+    place-items: center;
+    padding: 1.75rem;
 
 }
 
